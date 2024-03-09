@@ -1,3 +1,18 @@
+# TankPilot
+
+## Overview
+
+TankPilot is an interactive 3D tank simulator developed in C++ using OpenGL for rendering. The project showcases a tank model created in Blender, brought to life with interactive controls that allow the player to navigate the tank, rotate its turret, and shoot projectiles in a simulated environment. This project is designed to demonstrate the integration of 3D models with real-time interaction in a graphical application.
+
+## Features
+
+- **3D Tank Model:** The tank used in this simulator was meticulously crafted in Blender
+- **Movement Controls:** Players have the ability to move the tank forward and backward across the terrain, offering a dynamic exploration experience.
+- **Turret Rotation:** The turret can be rotated independently of the tank's body, allowing for precision aiming at targets in the environment.
+- **Projectile Shooting:** With the press of a button, players can shoot projectiles from the tank's cannon, simulating a combat scenario.
+- **OpenGL Rendering:** Utilizes OpenGL for rendering the 3D models and handling the graphical aspects of the simulation, ensuring smooth performance and visually appealing graphics.
+
+
 # GFX Framework
 
 ## :sparkles: Introduction
